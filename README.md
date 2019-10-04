@@ -2,13 +2,13 @@
 
 <div class="top-container">
   <img class="top-cloud" src="Images/cloud.png" alt="cloud-img">
-  <img class="bottom-cloud" src="Images/cloud.png" alt="cloud-img">
-  <img src="Images/mountain.png" alt="mountain-img">
+  <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
+  <img src="images/mountain.png" alt="mountain-img">
 </div>
 <hr>
 <div class="middle-container">
   <div class="profile">
-    <img class="profile-picture" src="Images/thumbnail2.jpg" alt="matthews profile picture">
+    <img class="profile-picture" src="images/thumbnail2.jpg" alt="matthews profile picture">
     <img class="lightning" src="https://media.giphy.com/media/vt2UahsYgKKIg/giphy.gif" alt="lightning">
   </div>
   <hr>
