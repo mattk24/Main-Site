@@ -1,14 +1,14 @@
 # Main-Site
 
 <div class="top-container">
-  <img class="top-cloud" src="images/cloud.png" alt="cloud-img">
-  <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
-  <img src="images/mountain.png" alt="mountain-img">
+  <img class="top-cloud" src="C:\Users\mkouk24\Documents\Web Development\CSS-My Site\Images\cloud.png" alt="cloud-img">
+  <img class="bottom-cloud" src="C:\Users\mkouk24\Documents\Web Development\CSS-My Site\Images\cloud.png" alt="cloud-img">
+  <img src="C:\Users\mkouk24\Documents\Web Development\CSS-My Site\Images\mountain.png" alt="mountain-img">
 </div>
 <hr>
 <div class="middle-container">
   <div class="profile">
-    <img class="profile-picture" src="C:\Users\mkouk24\Pictures\Saved Pictures\thumbnail2.jpg" alt="matthews profile picture">
+    <img class="profile-picture" src="C:\Users\mkouk24\Documents\Web Development\CSS-My Site\Images\thumbnail2.jpg" alt="matthews profile picture">
     <img class="lightning" src="https://media.giphy.com/media/vt2UahsYgKKIg/giphy.gif" alt="lightning">
   </div>
   <hr>
