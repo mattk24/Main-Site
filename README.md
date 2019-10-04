@@ -1,6 +1,6 @@
 # Main-Site
 <body>
-    <img class="profile-picture" src="" alt="matthews profile picture">
+    <img class="profile-picture" src="https://raw.githubusercontent.com/mattk24/Main-Site/master/thumbnail2.jpg" alt="matthews profile picture">
     <img class="lightning" src="https://media.giphy.com/media/vt2UahsYgKKIg/giphy.gif" alt="lightning">
   </div>
   <hr>
