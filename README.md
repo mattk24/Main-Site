@@ -4,9 +4,7 @@
   </div>
   <hr>
   <div class="skills">
-    <h2>My Skills.</h2>
     <div class="skill-row">
-      <img class="martial-arts" src="https://github.com/mattk24/Main-Site.git/desktop/martial-arts.jpg" alt="martial-arts">
       <img class="gif" src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" alt="matrix">
     </div>
     <div class="skill-row">
