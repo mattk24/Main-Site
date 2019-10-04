@@ -1,7 +1,7 @@
 # Main-Site
 <body>
 <div class="top-container">
-  <img class="top-cloud" src="https://github.com/mattk24/Main-Site.git/C:\Users\mkouk24\Documents\Web Development\CSS-My Site\Images/cloud.png" alt="cloud-img">
+  <img class="top-cloud" src="C:\Users\mkouk24\Documents\Web Development\CSS-My Site\Images/cloud.pnghttps://github.com/mattk24/Main-Site.git/" alt="cloud-img">
   <img class="bottom-cloud" src="https://github.com/mattk24/Main-Site.git/C:\Users\mkouk24\Documents\Web Development\CSS-My Site\Images/cloud.png" alt="cloud-img">
   <img src="https://github.com/mattk24/Main-Site.git/C:\Users\mkouk24\Documents\Web Development\CSS-My Site\Images/mountain.png" alt="mountain-img">
 </div>
