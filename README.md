@@ -1,5 +1,5 @@
 # Main-Site
-
+<body>
 <div class="top-container">
   <img class="top-cloud" src="Images/cloud.png" alt="cloud-img">
   <img class="bottom-cloud" src="images/cloud.png" alt="cloud-img">
@@ -22,3 +22,4 @@
       <img class="matrix-code" src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" alt="matrix-code">
     </div>
   </div>
+  </body>
